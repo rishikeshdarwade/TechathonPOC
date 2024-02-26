@@ -1,0 +1,19 @@
+Python app ->
+
+Folder : flask_api
+Commands :
+1.python -m venv myenv
+2. myenv\Scripts\activate
+3. Install below modules:
+	pip install ibm-generative-ai
+	pip install flask
+	pip install flask_cors
+4. python app.py
+______________________________
+
+React App ->
+
+Folder : testgenie-react-app
+Command:
+1. npm install
+2. npm start
